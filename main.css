@@ -1,0 +1,40 @@
+.inputBox 
+{
+	position: relative;
+    top: 150px;
+}
+.title 
+{
+    background-color: teal;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.title h1 
+{
+	color: #fff;
+    font-family: fantasy;
+    text-align: center;
+}
+.input-group-prepend #basic-addon3 
+{
+	background-color: #d3d3d3;
+    color: #696969;
+}
+
+.form-control:focus {
+  border-color: #DCDCDC;
+  box-shadow: none;
+
+} 
+.profile 
+{
+    margin-top: 50px;
+}
+.buttons 
+{
+    float: right;
+    position: relative;
+    bottom: 38px;
+    right: 280px;
+
+}
